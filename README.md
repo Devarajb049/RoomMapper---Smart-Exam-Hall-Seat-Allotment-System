@@ -29,7 +29,7 @@ RoomMapper is a smart, responsive web application that simplifies the process of
 
 | Home Page | Output Table |
 |-----------|--------------|
-| ![Screenshot1](assets/screenshot1.png) | ![Screenshot2](assets/screenshot2.png) |
+| ![Screenshot1](assets/Screenshot1.png) | ![Screenshot2](assets/Screenshot2.png) |
 
 ---
 
