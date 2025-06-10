@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>RoomMapper - Exam Seat Allotment</title>
+  <link rel="icon" type="image/png" href="image.png" />
+  <link rel="stylesheet" href="CSS/style.css" />
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1 class="title">RoomMapper</h1>
+      <p class="subtitle">Smart Exam Seat Allotment System</p>
+    </header>
+
+    <form id="studentAllotmentForm">
+      <label for="fileInput">Upload Student List (Excel):</label>
+      <input type="file" id="fileInput" accept=".xlsx" required />
+
+      <label for="roomCapacitiesInput">Room Capacities (comma-separated):</label>
+      <input type="text" id="roomCapacitiesInput" placeholder="e.g., 30,25,50" autocomplete="off" required />
+
+      <button type="submit">Allot Seats</button>
+    </form>
+
+    <div id="result">
+      <h2>Seat Allotment Results</h2>
+      <div id="tableResults"></div>
+    </div>
+  </div>
+
+  <!-- JS Libraries -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.16.9/xlsx.full.min.js"></script>
+  <script src="JS/script.js"></script>
+</body>
+</html>
