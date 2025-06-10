@@ -31,6 +31,7 @@ RoomMapper is a smart, responsive web application that simplifies the process of
 |-----------|--------------|
 | ![Screenshot1](assets/Screenshot1.png) | ![Screenshot2](assets/Screenshot2.png) |
 
+> - Click Here To See Live Preivew [Click Here](https://devarajb049.github.io/RoomMapper---Smart-Exam-Hall-Seat-Allotment-System/)
 ---
 
 ## 📂 How to Use
