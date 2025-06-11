@@ -8,20 +8,20 @@ RoomMapper is a smart, responsive web application that simplifies the process of
 
 ## 🌟 Features
 
-- 📁 Upload Excel files with student and room details
-- 📊 Automatically assigns students to rooms based on capacity
-- 📥 Downloadable, organized output in table format
-- 🎨 Clean, modern UI with responsive design
-- ⚙️ Works fully client-side — no backend or database needed
+- 📁 Upload Excel files with student and room details  
+- 📊 Automatically assigns students to rooms based on capacity  
+- 📥 Downloadable, organized output in table format  
+- 🎨 Clean, modern UI with responsive design  
+- ⚙️ Works fully client-side — no backend or database needed  
 
 ---
 
 ## 🖥️ Tech Stack
 
-- HTML5
-- CSS3 (Responsive & modern design)
-- JavaScript (DOM, FileReader, logic)
-- [SheetJS](https://sheetjs.com/) (`xlsx.js` for Excel parsing)
+- HTML5  
+- CSS3 (Responsive & modern design)  
+- JavaScript (DOM, FileReader, logic)  
+- [SheetJS](https://sheetjs.com/) (`xlsx.js` for Excel parsing)  
 
 ---
 
@@ -31,13 +31,18 @@ RoomMapper is a smart, responsive web application that simplifies the process of
 |-----------|--------------|
 | ![Screenshot1](assets/Screenshot1.png) | ![Screenshot2](assets/Screenshot2.png) |
 
-> - Click Here To See Live Preivew [Click Here](https://devarajb049.github.io/RoomMapper---Smart-Exam-Hall-Seat-Allotment-System/)
+---
+
+## 🚀 Live Preview
+
+🔗 [Click Here to Try RoomMapper](https://devarajb049.github.io/RoomMapper---Smart-Exam-Hall-Seat-Allotment-System/)
+
 ---
 
 ## 📂 How to Use
 
-1. Clone the repo:
+1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/Devarajb049/roommapper.git
-cd roommapper
+git clone https://github.com/Devarajb049/RoomMapper---Smart-Exam-Hall-Seat-Allotment-System.git
+cd RoomMapper---Smart-Exam-Hall-Seat-Allotment-System
