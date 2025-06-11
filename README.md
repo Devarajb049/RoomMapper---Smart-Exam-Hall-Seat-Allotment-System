@@ -8,9 +8,9 @@ RoomMapper is a smart, responsive web application that simplifies the process of
 
 ## 🌟 Features
 
-- 📁 Upload Excel files with student and room details  
-- 📊 Automatically assigns students to rooms based on capacity  
-- 📥 Downloadable, organized output in table format  
+- 📁 Upload Excel files with student Pin Numbers 
+- 📊 Automatically assigns students to rooms based on given capacity  
+- 📥 Downloadable, organized output in Excel File 
 - 🎨 Clean, modern UI with responsive design  
 - ⚙️ Works fully client-side — no backend or database needed  
 
