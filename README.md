@@ -36,7 +36,7 @@
 ## 🚀 Live Preview
 - To see Live Preview Download The PinNumbers File [**Click Here To Download**](https://tinyurl.com/ExcelFile-RoomMapper)
 
-🔗 [**Try RoomMapper Live**](https://devarajb049.github.io/RoomMapper---Smart-Exam-Hall-Seat-Allotment-System/)
+🔗 [**Try RoomMapper Live**](https://roommapper.netlify.app/)
 
 ---
 
