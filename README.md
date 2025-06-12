@@ -25,6 +25,14 @@
 
 ---
 
+## 📸 Screenshots
+
+| Home Page | Output Table |
+|-----------|--------------|
+| ![Screenshot1](assets/Screenshot1.png) | ![Screenshot2](assets/Screenshot2.png) |
+
+---
+
 ## 🚀 Live Preview
 - To see Live Preview Download The PinNumbers File [**Click Here To Download**](https://tinyurl.com/ExcelFile-RoomMapper)
 
